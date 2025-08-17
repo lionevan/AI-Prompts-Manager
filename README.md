@@ -26,7 +26,8 @@ git clone https://github.com/your-username/prompts-manager.git
 cd prompts-manager
 npm install
 
-##
+## 🖼️ Screenshot
+
 
 
 ![Alt text](/Prompts-Manager/master/public/Screenshot_Prompts_Manager.png)?raw=true "Optional Title")
