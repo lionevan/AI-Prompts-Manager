@@ -1,4 +1,4 @@
-# Prompts-Manager
+# AI-Prompts-Manager
 Prompts Manager is a lightweight and intuitive interface for organizing, editing, and sharing AI prompts. Whether you're working with GPT models or other LLMs, this tool helps streamline your workflow and keep your prompt library clean and accessible.
 
 ## ✨ Features
