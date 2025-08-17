@@ -19,7 +19,7 @@ Prompts Manager is a lightweight and intuitive interface for organizing, editing
 
 ## 🖼️ Screenshot
 
-![Alt text](public/Screenshot_Prompts_Manager.png)? "Optional Title")
+![Alt text](public/Screenshot_Prompts_Manager.png)
 
 
 ## 📦 Installation
