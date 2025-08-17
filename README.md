@@ -28,7 +28,7 @@ npm install
 
 ##
 
-![Prompts Manager Screenshot](https://raw.githubusercontent.com/lionevan/Prompts-Manager/master/public/Screenshot_Prompts_Manager.png)
 
+![Alt text](/Prompts-Manager/master/public/Screenshot_Prompts_Manager.png)?raw=true "Optional Title")
 
 
