@@ -17,6 +17,11 @@ Prompts Manager is a lightweight and intuitive interface for organizing, editing
 - Customize responses by language, style, or structure
 - Rapid prototyping of chatbot or assistant behaviors
 
+## 🖼️ Screenshot
+
+![Alt text](/Prompts-Manager/master/public/Screenshot_Prompts_Manager.png)?raw=true "Optional Title")
+
+
 ## 📦 Installation
 
 Clone the repository and install dependencies:
@@ -26,10 +31,6 @@ git clone https://github.com/your-username/prompts-manager.git
 cd prompts-manager
 npm install
 
-## 🖼️ Screenshot
 
-
-
-![Alt text](/Prompts-Manager/master/public/Screenshot_Prompts_Manager.png)?raw=true "Optional Title")
 
 
