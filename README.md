@@ -1,4 +1,4 @@
-# Ai  Prompts Manager
+# Ai Prompts Manager
 
 Prompts Manager is a lightweight and intuitive interface for organizing, editing, and sharing AI prompts. Whether you're working with GPT models or other LLMs, this tool helps streamline your workflow and keep your prompt library clean and accessible.
 
@@ -27,7 +27,7 @@ Prompts Manager is a lightweight and intuitive interface for organizing, editing
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/prompts-manager.git
+git clone https://github.com/lionevan/AI-Prompts-Manager.git
 cd prompts-manager
 npm install
 
