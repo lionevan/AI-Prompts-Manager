@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Plus, Edit3, Trash2, Copy, Download, Upload } from 'lucide-react';
-import './index.css';
-import './tailwind.css';
+import './app.css';
+
 const App = () => {
   const [prompts, setPrompts] = useState([
     {
